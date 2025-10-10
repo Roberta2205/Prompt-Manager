@@ -30,4 +30,4 @@ adicionou ao código antes de finalizar, pois nem sempre ela entrega as melhores
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<h1>🔗 | https://nlwpromptmanager.netlify.app/</h1>
+<h1>🔗 | https://nlwpromptmanagerr.netlify.app/</h1>
